@@ -1,0 +1,22 @@
+{
+  "name": "imed-health",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/imed-health.git"
+  },
+  "keywords": [],
+  "author": "Jonathan Delgado <hi@jon.soy> (https://jon.soy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/imed-health/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/imed-health#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
